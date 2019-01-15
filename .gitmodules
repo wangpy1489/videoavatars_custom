@@ -1,0 +1,3 @@
+[submodule "video_avatars"]
+	path = video_avatars
+	url = git@github.com:thmoa/videoavatars.git
